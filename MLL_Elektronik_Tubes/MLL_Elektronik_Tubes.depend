@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1734613116 source:c:\users\farriz\documents\tugas tp\mll_elektronik_tubes\main.cpp
+	<iostream>
+	"MLL_elektronik.h"
+
+1734613082 c:\users\farriz\documents\tugas tp\mll_elektronik_tubes\mll_elektronik.h
+	<iostream>
+
+1734613116 source:e:\telkom\semester_3\strukdat\tubes\mll_elektronik_tubes\mll_elektronik_tubes\main.cpp
+	<iostream>
+	"MLL_elektronik.h"
+
+1734613082 e:\telkom\semester_3\strukdat\tubes\mll_elektronik_tubes\mll_elektronik_tubes\mll_elektronik.h
+	<iostream>
+
